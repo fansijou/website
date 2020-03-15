@@ -1,6 +1,6 @@
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！      
-* 在passwall运行状态下修改LAN的静态IP后可能会无法自动唤起DNS导致无法上网，需要重启passwall或者重启软路由         
+* passwall在运行状态下修改LAN的静态IP后可能会无法上网，需要重启passwall插件或者重启固件！         
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：                 
 [https://youtu.be/qkga9DN5H08](https://youtu.be/qkga9DN5H08)             
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：      
